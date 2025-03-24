@@ -46,6 +46,5 @@ Make sure JavaFX is properly configured in your development environment:
 - Increasing difficulty as time progresses.
 - Power-ups or additional mechanics to enhance gameplay.
 
-(USED CHATGPT TO WRITE THIS ON HOW TO RUN ON VS CODE, ECLIPSE AND INTELLIJ)
 
 
